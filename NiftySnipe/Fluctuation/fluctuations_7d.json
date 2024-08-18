@@ -1,0 +1,102 @@
+{
+  "sunflower": {
+    "currentpricevariation": 0.0019079468553417414,
+    "lastpricechange": 0.0019079468553417414,
+    "percentage_change": 0.0
+  },
+  "potato": {
+    "currentpricevariation": 0.006695200302758604,
+    "lastpricechange": 0.006695200302758604,
+    "percentage_change": 0.0
+  },
+  "pumpkin": {
+    "currentpricevariation": 0.0050302042826753345,
+    "lastpricechange": 0.0050302042826753345,
+    "percentage_change": 0.0
+  },
+  "carrot": {
+    "currentpricevariation": 0.010400966220026535,
+    "lastpricechange": 0.010400966220026535,
+    "percentage_change": 0.0
+  },
+  "cabbage": {
+    "currentpricevariation": 0.010316344973872148,
+    "lastpricechange": 0.010316344973872148,
+    "percentage_change": 0.0
+  },
+  "beetroot": {
+    "currentpricevariation": 0.018549197834841026,
+    "lastpricechange": 0.018549197834841026,
+    "percentage_change": 0.0
+  },
+  "cauliflower": {
+    "currentpricevariation": 0.061350883582432326,
+    "lastpricechange": 0.061350883582432326,
+    "percentage_change": 0.0
+  },
+  "parsnip": {
+    "currentpricevariation": 0.06396522926535685,
+    "lastpricechange": 0.06396522926535685,
+    "percentage_change": 0.0
+  },
+  "radish": {
+    "currentpricevariation": 0.2164729695885272,
+    "lastpricechange": 0.2164729695885272,
+    "percentage_change": 0.0
+  },
+  "wheat": {
+    "currentpricevariation": 0.17396604439665841,
+    "lastpricechange": 0.17396604439665841,
+    "percentage_change": 0.0
+  },
+  "kale": {
+    "currentpricevariation": 0.2744027776699934,
+    "lastpricechange": 0.2744027776699934,
+    "percentage_change": 0.0
+  },
+  "apple": {
+    "currentpricevariation": 0.41212435487111165,
+    "lastpricechange": 0.41212435487111165,
+    "percentage_change": 0.0
+  },
+  "blueberry": {
+    "currentpricevariation": 0.23700999348034843,
+    "lastpricechange": 0.23700999348034843,
+    "percentage_change": 0.0
+  },
+  "orange": {
+    "currentpricevariation": 0.34061638649092046,
+    "lastpricechange": 0.34061638649092046,
+    "percentage_change": 0.0
+  },
+  "eggplant": {
+    "currentpricevariation": 0.04514754520386058,
+    "lastpricechange": 0.04514754520386058,
+    "percentage_change": 0.0
+  },
+  "wood": {
+    "currentpricevariation": 0.06435200402278686,
+    "lastpricechange": 0.06435200402278686,
+    "percentage_change": 0.0
+  },
+  "stone": {
+    "currentpricevariation": 0.24753940000990432,
+    "lastpricechange": 0.24753940000990432,
+    "percentage_change": 0.0
+  },
+  "iron": {
+    "currentpricevariation": 1.1252599606891516,
+    "lastpricechange": 1.1252599606891516,
+    "percentage_change": 0.0
+  },
+  "gold": {
+    "currentpricevariation": 3.6157007878841108,
+    "lastpricechange": 3.6157007878841108,
+    "percentage_change": 0.0
+  },
+  "egg": {
+    "currentpricevariation": 0.17163915077873285,
+    "lastpricechange": 0.17163915077873285,
+    "percentage_change": 0.0
+  }
+}
