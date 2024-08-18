@@ -10,13 +10,7 @@ url = 'https://api.sunflower-land.com/community/getFarms'
 headers = {"Content-Type": "application/json"}
 
 # Liste des proxies
-proxy_list = [
-    "http://52.124.19.86:3128",
-    "http://141.164.86.18:3128",
-    "http://172.252.163.146:3128",
-    "http://69.58.68.104:3128",
-    "http://69.58.70.12:3128",
-]
+proxy_list = []
 
 # Lecture des IDs de ferme actifs depuis le fichier JSON
 with open('actives.json', 'r') as json_file:
